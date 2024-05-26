@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		// 文字コード設定
+		"files.encoding": "utf8",
+		"files.autoGuessEncoding": true,
+        // タブ設定
+		"editor.detectIndentation": false,
+		"editor.tabSize": 2,
+		"editor.insertSpaces": true,
+		// ファイル非表示設定
+		"files.exclude": {
+		},
+		// ファイル検索除外設定
+		"search.exclude": {
+        },
+        "files.associations": {
+            "*.cpp": "cpp",
+            "*.h": "c"
+        }
+	}
+}
